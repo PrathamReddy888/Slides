@@ -1,4 +1,4 @@
-# Google Slides Clone - GitHub Pages Presentation
+GitHub Pages Presentation
 
 A web-based presentation tool that mimics Google Slides functionality, built with Reveal.js and designed to be hosted on GitHub Pages.
 
